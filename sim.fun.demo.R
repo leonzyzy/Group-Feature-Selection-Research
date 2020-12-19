@@ -144,11 +144,3 @@ coef = function(x, y, group){
   )
   return(coef)
 }
-
-
-
-
-
-
-
-
