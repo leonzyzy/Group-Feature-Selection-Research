@@ -312,11 +312,3 @@ coef.percent3 = data.frame("Glasso" = glasso.coef.percent,
                            "GSCAD" = gSCAD.coef.percent,
                            "SGL" = SGL.coef.percent)
 write.csv(coef.percent3, "coef.percent3.csv")
-
-
-
-
-
-
-
-
